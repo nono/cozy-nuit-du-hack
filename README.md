@@ -16,4 +16,5 @@ $ git clone git://github.com/nono/cozy-nuit-du-hack.git
 $ cd cozy-nuit-du-hack
 $ cp ~/go/src/github.com/cozy/cozy-stack/cozy-stack .
 $ docker build -t cozy/cozy-nuit-du-hack .
+$ docker push cozy/cozy-nuit-du-hack
 ```
